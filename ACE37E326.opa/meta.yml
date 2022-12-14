@@ -1,0 +1,22 @@
+id: ACE37E326
+title: Toh_231-The_Jewel_Cloud-v1
+type: translation
+pechas:
+- I4BF80FC6
+- I45C78E57
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-08-01T19:01:17.164Z'
+  creationid: celso
+  eft-text-id: UT22084-064-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_231-The_Jewel_Cloud-v1
+alignment_to_base:
+  I4BF80FC6/764A: F787
+  I45C78E57/3603: F787
